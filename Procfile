@@ -1,0 +1,1 @@
+web: gunicorn Adult_income_flask:app
